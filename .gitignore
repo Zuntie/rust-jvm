@@ -1,0 +1,5 @@
+/target
+Cargo.lock
+compile.bat
+out.asm
+compiled.exe
